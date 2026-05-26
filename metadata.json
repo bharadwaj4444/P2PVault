@@ -1,0 +1,6 @@
+{
+  "name": "Secure P2P Chat",
+  "description": "A decentralized, serverless peer-to-peer messaging application featuring end-to-end encryption, local private key sovereignty, and standalone server hosting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
